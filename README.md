@@ -1,2 +1,2 @@
 # AdvProg-Stuff
-Stuff for my Advanced Programming and Web Design class.
+Work done for a high school class on programming
